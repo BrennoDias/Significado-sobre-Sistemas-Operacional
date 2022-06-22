@@ -1,0 +1,33 @@
+Sistemas Operacionais
+
+1) O que é um processo? 
+R: Processos são sequências de atividades e tarefas ordenadas com o objetivo de se chegar a um resultado final esperado. 
+
+2) Quais são os tipos de processos? 
+R: Processos CPU bound (orientados à CPU) e Processos I/O bound (orientados à E/S) 
+
+3) Qual a ideia central do algoritmo de escalonamento FIFO? 
+R: A ideia é inserir um novo elemento no final da fila e só podendo retirar o elemento do início. 
+
+4) Explique o funcionamento dos sistemas operacionais monotarefas. 
+R: É permitido a realização de apenas uma tarefa de cada vez. 
+
+5) Explique o funcionamento dos sistemas operacionais multitarefas. 
+R: É permitido repartir a utilização do processador entre várias tarefas aparentemente simultâneas. 
+
+6) Comente com suas palavras o que é um escalonamento preemptivo e não preemptivo. 
+R: No escalonamento preemptivo So pode interromper um processo em execução e passa-lo, para o estado de pronto e não preemptivo é quando um processo está em execução nenhum evento externo pode ocasionar a perda do uso doprocessador. 
+
+7) Qual a ideia central do algoritmo Round Robin?
+ R: É algoritmo para um escalonamento por alternância circular onde cada processo ganha um intervalo de tempo para uso contínuo da CPU (quantum). 
+ 
+8) Qual a ideia central do algoritmo de prioridade? 
+R: É um algoritmo onde cada processo no estado de pronto recebe uma prioridade, os processos com maiores prioridades são executados primeiro. 
+
+9) O que é o tempo de espera? 
+R: é um intervalo entre a chegada ao sistema e inicio de sua execução.
+
+10) O que é o tempo de execução? 
+R: É algo que ocorre quando o programa está sendo executado basicamente.
+
+
